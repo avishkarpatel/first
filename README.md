@@ -1,2 +1,2 @@
 # first
-my first repo for learning 
+hello my name is avishkar
